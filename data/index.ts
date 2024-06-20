@@ -191,13 +191,11 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-  },
-  {
-    id: 2,
-    img: "/twit.svg",
+    linkk: "https://github.com/wolf-dagger",
   },
   {
     id: 3,
     img: "/link.svg",
+    linkk: "https://www.linkedin.com/in/prashant-sharma-43b295137/",
   },
 ];
