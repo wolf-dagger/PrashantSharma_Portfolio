@@ -107,80 +107,80 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "I had the pleasure of working with Prashant Sharma during his tenure at Mphasis, where he served as a PeopleSoft Technology Specialist. Prashant consistently demonstrated exceptional technical expertise and a deep understanding of PeopleSoft applications. His contributions were instrumental in the successful implementation and maintenance of our PeopleSoft systems.",
+      "I had the pleasure of working with Prashant Sharma during his tenure at Mphasis, where he served as a PeopleSoft Technology Specialist. Prashant consistently demonstrated exceptional technical expertise and a deep understanding of PeopleSoft applications.",
     name: "Subranyam Swami",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "One of Prashant's standout projects was the development of a responsive web interface for our customer portal. This project required meticulous planning, extensive coding, and seamless integration with our existing systems, all of which Prashant managed with remarkable proficiency. His ability to troubleshoot complex issues and provide effective solutions greatly enhanced the user experience and functionality of the portal.",
+      "One of Prashant's standout projects was the development of a responsive web interface for our customer portal. This project required meticulous planning, extensive coding, and seamless integration with our existing systems, all of which Prashant managed with remarkable proficiency. ",
     name: "Jaspreet Singh",
     title: "Director of AlphaStream Technologies",
   },
 ];
 
-export const companies = [
-  {
-    id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-  {
-    id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
-  },
-];
+// export const companies = [
+//   {
+//     id: 1,
+//     name: "cloudinary",
+//     img: "/cloud.svg",
+//     nameImg: "/cloudName.svg",
+//   },
+//   {
+//     id: 2,
+//     name: "appwrite",
+//     img: "/app.svg",
+//     nameImg: "/appName.svg",
+//   },
+//   {
+//     id: 3,
+//     name: "HOSTINGER",
+//     img: "/host.svg",
+//     nameImg: "/hostName.svg",
+//   },
+//   {
+//     id: 4,
+//     name: "stream",
+//     img: "/s.svg",
+//     nameImg: "/streamName.svg",
+//   },
+//   {
+//     id: 5,
+//     name: "docker.",
+//     img: "/dock.svg",
+//     nameImg: "/dockerName.svg",
+//   },
+// ];
 
 export const workExperience = [
   {
     id: 1,
     title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity at Omninos Software Solutions",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
     linkto: "",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Associate Software Engineer",
+    desc: "Worked as a PeopleSoft Developer at Mphasis Pvt. Ltd. and maintained the processes through the tools and maintained database with MySQL ",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
     linkto: "",
   },
-  {
-    id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-    linkto: "",
-  },
+  // {
+  //   id: 3,
+  //   title: "Freelance App Dev Project",
+  //   desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+  //   className: "md:col-span-2", // change to md:col-span-2
+  //   thumbnail: "/exp3.svg",
+  //   linkto: "",
+  // },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Personal Projects",
+    desc: "Developed and maintaining and bulding new personal projects to learn and be relevant in the industry",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
     linkto: "",

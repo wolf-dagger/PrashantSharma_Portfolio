@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { projects } from "@/data";
 import React from "react";
 import { PinContainer } from "./ui/3d-pin";
@@ -19,8 +20,8 @@ const RecentProjects = () => {
                 key={id}
                 className="sm:h-[41rem] h-[32rem] lg:min-h-[32.5rem] flex items-center justify-center sm:w-[570px] w-[80vw]"
               >
-                <a href={link} target="_blank">
-                  <PinContainer title={link} href={link}>
+                <PinContainer title={link} href={link}>
+                  <a href={link} target="_blank">
                     <div className="relative flex items-center justify-center sm:w-[570px] w-[80vw] overflow-hidden h-[30vh] sm:h-[40vh] mb-10">
                       <div className="relative w-full h-full overflow-hidden lg:rounded-3xl bg-[#13162d]">
                         <img src="/bg.png" alt="bg-img" />
@@ -56,8 +57,8 @@ const RecentProjects = () => {
                         <FaLocationArrow className="ms-3" color="#CBACE9" />
                       </div>
                     </div>
-                  </PinContainer>
-                </a>
+                  </a>
+                </PinContainer>
               </div>
             </>
           ))}
