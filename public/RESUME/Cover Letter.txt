@@ -1,0 +1,15 @@
+Hello,
+
+I am writing to express my interest in the React.js Front End Developer position at your Organization. With a solid foundation in PeopleSoft Technology garnered through my tenure at Mphasis Pvt. Ltd., complemented by hands-on experience gained during my React.js internship at Omninos Software Solutions, I am eager to bring my diverse skill set and enthusiasm for front-end development to your esteemed team.
+
+During my time at Mphasis Pvt. Ltd., I honed my technical skills and cultivated a strong understanding of software development methodologies. My experience with PeopleSoft Technology instilled in me a meticulous approach to problem-solving and a commitment to delivering high-quality solutions within strict deadlines. These skills have been further augmented during my internship at Omninos Software Solutions, where I immersed myself in React.js development projects.
+
+I possess proficiency in a wide array of technologies essential for front-end development, including HTML, CSS, JavaScript, React.js, Redux Toolkit, Material UI, Tailwind CSS, and Firebase. My hands-on experience with these technologies, coupled with my passion for creating intuitive and visually appealing user interfaces, has enabled me to develop several projects independently, demonstrating my ability to translate conceptual designs into functional and responsive web applications.
+
+Due to some health issues, I have to take 1 year Career break but I assure you now I am perfectly fine and ready to move ahead. I would be very happy if you can give me a chance on your team so I can grow and shine with your organization
+
+I am particularly drawn to the opportunity at your Organization. I am excited about the prospect of contributing to your team and leveraging my skills to drive impactful results.
+
+
+Warm regards,
+Prashant Sharma

@@ -75,64 +75,46 @@ export const projects = [
     title: "E-commerse Cart System",
     des: "A simple Cart system with state management library Redux Toolkit",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "https://amazoon-cart-system-prashant.netlify.app/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Weather Application",
+    des: "A simple weather application, with search functionality implemented.",
     img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "https://wolf-dagger.github.io/weatherApp/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "ToDo Application",
+    des: "A simple Todo application with all the functionlality needed are implemented",
     img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "https://prashant-todo-app-v2.netlify.app/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "CRUD Application",
+    des: "A simple crud application where the data is stored in local storage and accessed through it.",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    iconLists: ["/tail.svg", "/re.svg"],
+    link: "https://prashant-crud-app.netlify.app/",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
+      "I had the pleasure of working with Prashant Sharma during his tenure at Mphasis, where he served as a PeopleSoft Technology Specialist. Prashant consistently demonstrated exceptional technical expertise and a deep understanding of PeopleSoft applications. His contributions were instrumental in the successful implementation and maintenance of our PeopleSoft systems.",
+    name: "Subranyam Swami",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
+      "One of Prashant's standout projects was the development of a responsive web interface for our customer portal. This project required meticulous planning, extensive coding, and seamless integration with our existing systems, all of which Prashant managed with remarkable proficiency. His ability to troubleshoot complex issues and provide effective solutions greatly enhanced the user experience and functionality of the portal.",
+    name: "Jaspreet Singh",
     title: "Director of AlphaStream Technologies",
   },
 ];
@@ -177,6 +159,7 @@ export const workExperience = [
     desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
+    linkto: "",
   },
   {
     id: 2,
@@ -184,6 +167,7 @@ export const workExperience = [
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
+    linkto: "",
   },
   {
     id: 3,
@@ -191,6 +175,7 @@ export const workExperience = [
     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
+    linkto: "",
   },
   {
     id: 4,
@@ -198,6 +183,7 @@ export const workExperience = [
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
+    linkto: "",
   },
 ];
 
